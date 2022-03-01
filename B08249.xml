@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the original of judging according to equity and how erroneous judgments in equity have been rectified, humbly represented to the King, Lords and Commons in Parliament assembled, in order to a due establishment.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08249</idno>
+            <idno type="STC">Wing A335CA</idno>
+            <idno type="STC">ESTC R214056</idno>
+            <idno type="EEBO-CITATION">69648439</idno>
+            <idno type="OCLC">ocm 69648439</idno>
+            <idno type="VID">184800</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08249)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184800)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2872:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the original of judging according to equity and how erroneous judgments in equity have been rectified, humbly represented to the King, Lords and Commons in Parliament assembled, in order to a due establishment.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication written in ms. at top of broadside.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Justice, Administration of --  England --  Early works to 1800.</term>
+               <term>Appellate procedure --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184800:1" rendition="simple:additions"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <add>1. May. 1690.</add>
+                  </date>
+               </dateline>
+            </opener>
+            <head>An Account of the Original of Judging according to Equity, and how Erroneous Judgments in Equity have been Rectified, <add>Ag<hi rend="sup">t</hi> y<hi rend="sup">e</hi> jurisdiction of y<hi rend="sup">e</hi> Lords.</add> Humbly Repreſented to the King, Lords and Commons; in Parliament Aſſembled. In Order to a due Eſtabliſhment.<note place="margin">Bract. L. 3. f. 107. Fleta. cap. 17. l. 16.</note>
+            </head>
+            <p>NOne but the King, and ſuch as are delegated by him, can or ought to Judge in any Temporal matter.</p>
+            <p>Such as ſought relief in former times in Caſes of Equity were Suitors to the King himſelf, who being aſſiſted with his Chancellor and Councel,<note place="margin">Archeon 59.</note> did mittigate the ſe<g ref="char:EOLhyphen"/>verity of the Law in his own Perſon.</p>
+            <p>Afterwards the King being willing to eaſe himſelf of that trouble;<note place="margin">Archeon 62, &amp; 63.</note> by delivery of his Great Seal to his Chancellor, he delegated to him or the Keeper of the Great Seal, his own Regal and Extraordinary Preheminence of Juriſdiction, in Civil Cauſes; for mitigating the Rigour and ſupplying the defects of the Common Law, when extraordinary Circum<g ref="char:EOLhyphen"/>ſtances required it, but this was very ſparingly made uſe of by the Chancellor and Keeper in former times, and men were oftentimes releived in Caſes of Equity, as <hi>Brooke</hi> ſays,<note place="margin">Brooke Parli<g ref="char:EOLhyphen"/>ament 33.</note> by Act of Parliament, whereof you may find Preſidents in the Parliament Rolls hereafter mentioned, <hi>viz.</hi> 5 <hi>R.</hi> 2 n. 62. 3 <hi>H.</hi> 5. n. 17. 3 <hi>H.</hi> 5. n. 44. 9 <hi>H.</hi> 5. n. 11. 37 <hi>H.</hi> 8. n. 26.</p>
+            <p>If the Chancellor Erro'd formerly his Decrees were reviewed, not before himſelf alone, but ſome of the Judges ſate with him, moſt times in the Exchequer Chamber, as appear<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by the Year Books and Reports following, <hi>viz.</hi> 37 <hi>H.</hi> 6. f. 13. <hi>ibidem</hi> 35, &amp; 36. 7 <hi>E.</hi> 4. f. 15. 22 <hi>E.</hi> 4. 67. 27 <hi>H.</hi> f. 15.</p>
+            <p>But whether the Chancellor in the Caſes laſt mentioned did take the Judges to his Aſſi<g ref="char:EOLhyphen"/>ſtance of his own accord, or by the Kings Order it appears not by the Books, but it ap<g ref="char:EOLhyphen"/>pears that of later times the Decrees of the Chancellor were Reviewed by Judges and others by Order and Commiſſion from the King, as appears by the Authorities following, <hi>viz.</hi> 4 Inſtit. f. 85. where you may find,<note place="margin">Vi. 2. Anderſon fo. 163.</note> that Sir <hi>Moyle Finch</hi> Petitioned Queen <hi>Elizabeth</hi> againſt a Decree in Chancery in the 42. and 43. years of her Reign, and ſhe refer'd the matter to all the Judges of <hi>England,</hi> and upon their Opinions, being Certified into the Chancery, the Decree was Revers'd, and there the Lord Cheif Juſtice <hi>Cooke</hi> Cites 4 Caſes more that about that time were referred out of the Chancery to ſome of the Judges.</p>
+            <p>There be alſo ſeveral Orders entred in the Regiſter's Books of Orders in Chancery, that appeare to be made by vertue of the Kings refference from Chancery Decrees to the Judges, as follows, <hi>viz.</hi> 21. <hi>Junii</hi> 2 <hi>Jac.</hi> 1. Inter <hi>Chamberlain</hi> &amp; <hi>Bubb,</hi> 24. No. 3 <hi>Car.</hi> 1: Inter <hi>Barker</hi> &amp; <hi>Unwin,</hi> 12. No. 7 <hi>Car.</hi> 1. <hi>Inter Penington</hi> &amp; <hi>Holms,</hi> 15 <hi>Car:</hi> 1. Rot. patent. 23: n. 5. indorſ. a Commiſſion to Review a Decree in Chancery between <hi>Harvey</hi> and <hi>Langham</hi> in there Inrol'd.</p>
+            <p>Of late Years we find that Erronious Decrees in Chancery and other Courts of Equity were review'd by Appeals to the Lords in Parliament, and it is worth while to ſee how and when that Courſe firſt began.</p>
+            <p>In the Year 1621. Sir <hi>John Boucher</hi> prefer'd a Petition to the Lords Intitled thus,<note place="margin">Lords Journal 3. of Decemb. 1621. 19 Jac. 1,</note>
+            </p>
+            <p>
+               <hi>To the Right Honourable the Lords Spiritual and Temporal in Parliament Aſſembled.</hi>
+            </p>
+            <p>In that Petition he complains againſt the Lord Keeper for an over haſty determining of his Cauſe, and refuſing to hear his Evidence, whereby, as he alledg'd, he had not Juſtice done him, and the Petition concludes in theſe words. <hi>The Petitioner doth therefore in all Hu<g ref="char:EOLhyphen"/>mility Appeal to your Lordſhips,</hi> &amp;c. <hi>Humbly deſiring that your Lordſhips would be pleaſed to hear and Judge the ſame.</hi>
+            </p>
+            <p>Upon Reading of which Petition it was referr'd to the Committee of Priviledges to conſi<g ref="char:EOLhyphen"/>der whether it were a formal Appeal or not.</p>
+            <p>Afterwards the Lord Arch Biſhop of <hi>Canterbury,</hi>
+               <note place="margin">Lords Journal 10. December 1621.</note> the firſt of the Committe of Priviledges Reported to the Houſe, that divers Lords of their Subcommittee appointed to ſearch for Preſidents, had made Report to them, that they could not find that the word Appeal was uſual in any Petition, and that the Ancient and Accuſtomed form of Petitions brought to that Houſe were, <hi>To the King and his Great Councel.</hi> However they thought ſit the matter of the complaint ſhould be heard, which was accordingly done, as to the charge againſt the Lord Keeper for his over haſty hearing the Cauſe and refuſing to hear the Evidence, but as to the merits of the Cauſe it was not heard; although Sir <hi>John Boucher</hi> earneſtly begg'd it.</p>
+            <p>In 1624. I find ſeveral Petitions of Appeals from Chancery to the Lords in Parliament,<note place="margin">May 28. 1624. 22 Jac. 1.</note> one whereof was a Petition of one <hi>William Mathews,</hi> againſt a Decree obtain'd by <hi>George Mathews,</hi> and upon hearing, their Lordſhips revers'd the Decree; whereupon <hi>George Ma<g ref="char:EOLhyphen"/>thews</hi> Petitioned their Lordſhips in nature of a Plea to their Juriſdiction, ſetting forth, that he was inform'd by his Councel, that it had been the courſe of that Honourable Houſe to Reverſe Decrees, but by Bill Legally Exhibited; and upon conſideration had of that Peti<g ref="char:EOLhyphen"/>tion their Lordſhips waved their own reverſal,<note place="margin">May 29 1624.</note> and directed that the Lord Keeper ſhould become an humble Suitor to the King for a Commiſſion to review that Decree.</p>
+            <p>And all the other Appeals in that Parliament that I could find were Refer'd back to the Chancery or to Arbitrators to endeavour to end, and none determin'd by the Lords sa I could find.</p>
+            <p>From that time to the beginning of the Wars, about 1640, and 1641, I find nothing of Appeals to the Lords in Parliament, but in thoſe troubleſome times they were again receiv'd, but how Legally is not for me to determine, but this I will ſay, that before their Lordſhips can Examine Errors in Judgments at Law, there muſt be the Kings leave for a Writ of Error for that purpoſe, and the Writs of Error are their Lordſhips Commiſſions; but I know none they have to determine Appeals from the Chancery no more then from the Prerogative Court, which they pretend not to but, have diſclaim'd it.</p>
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1… pages missing〉</desc>
+            </gap>
+            <pb facs="tcp:184800:2"/>
+            <p> I find that the Lords were formerly Judges in Parliament in particular Caſes, by the Kings aſſent as appears, 4 <hi>E.</hi> 3. n. 1. and in the ſame Year n. 6. it was aſſented and Agreed by the King and all the great Men in full Parliament, that the Peers of the Realm ſhould not be driven for the future to give Judgment on any other but their Peers, nor have power ſo to do for the future, and n. 16, and 17, of that Parliament <hi>Thomas</hi> of <hi>Berkley,</hi> Rnt. was tryed before the King in Parliament by a Jury of 12 Knights and ac<g ref="char:EOLhyphen"/>quirted: and 25 <hi>E.</hi> 3. n. 10. the Record of the Judgment againſt Sir <hi>William Thorpe</hi> was brought into Parlia<g ref="char:EOLhyphen"/>ament, as the Record ſays, before the King himſelf who took the Advice of all the Lords, but I think the Judgment was the Kings and not the Lords.</p>
+            <p>1 <hi>H.</hi> 4. n. 79. It is declared by the Arch Biſhop of <hi>Canterbury,</hi> by the Kings Command, that all Judgments appeartain'd to the King and Lords unleſs in Statutes, <hi>&amp;c.</hi> but I cannot find how the Lords in Parliament came to be Judges there in any Cauſe between Party and Party, without the King, or without his Aſſent, or the Aſſent of his Chancellor, or one whom the King puts there to Execute the Office of the Chancellor, who is the Kings Repreſentative in the Houſe of Lords in his abſence, as appears 10 <hi>R.</hi> 2. n. 6. and by the ſeveral Ac<g ref="char:EOLhyphen"/>tions by him done by the King Authority, as Prorogueing and Diſſolving the Parliament, ſo that the Chan<g ref="char:EOLhyphen"/>cellor or he that executes his place in the Houſe of Lords by the Kings Commiſſion is not barely a Speaker of the Houſe of Lords and no more, and to be wholly Rul'd and Govern'd by the Lords, but he is Anſwerable to God &amp; the King for all Judgments there given, as being intruſted to repreſent the King who is the ſupream Judge.</p>
+            <p>In Judgments heretofore in Parliament, the Advice of the Judges was followed, and the late Lord <hi>Hollis,</hi> the Champion for the Juriſdiction of the Lords in matters of Appeals,<note place="margin">Hollis's Caſe ſtated, f. 22:</note> to juſtifie the reaſonableneſs of that Jurisdiction ſays, That the great Officers of the Kingdome are part of that Body, who in all reaſon, ſays he, ſhould be knowing Men; the Chancellor of <hi>England</hi> is always their Speaker, who is commonly a perſon skilled in the Law, and ſays he further, they have all the Judges of the Land to be their Aſſiſtants, with whom they Adviſe, and by whoſe Advice they are guided in difficult points, and I think all points in Law are dif<g ref="char:EOLhyphen"/>ficult to Men not skill'd in the Law, and there he Cites <hi>Flourdew</hi>'s Caſe, 1. <hi>H.</hi> 7. where the proceedings upon Writs of Error in the Houſe of Lords are ſhewed,<note place="margin">Jenkins Lex Terre, f. 55.</note> and there it is ſaid, <hi>Sen<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſcallus cum dominibus Spiritualibus &amp; temporalibus per concilum Juſticiariorum procedent ad Errorem Corrigendum.</hi>
+            </p>
+            <p>The King is ſworn to Judge juſtly, and ſo is the Chancellor oblig'd to take the Oath of a Chancellor tho' he be a Peer, and though the Lords upon Tryal of a Peer give their verdict upon honour, yet I do not think that any Reaſon why if they are made Judges in other Caſes, they ſhould not take the Oath of a Judge.</p>
+            <p>The King Judges by his ſworn Judges who are his Council in matters of Law, and they are call'd to the Houſe of Lords not at their Lordſhips pleaſure,<note place="margin">Cook. 1. Inſt. f. 110.</note> but they are call'd thither by the King's Writ which tells us to what end they come there in theſe words, <hi>Quod interſitis nobiſcum &amp; cum caeteris de Concilio noſtro ſuper pre<g ref="char:EOLhyphen"/>miſſis tractaturi, veſtrum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Concilium Impenſuri.</hi>
+            </p>
+            <p>Amongſt the Petitions of the Commons in Parliament 1 <hi>R.</hi> 2. n. 87. it was prayed that no Suit between party and party be determined before any Lords or others of the Councel, but before the Juſtices only which was granted by the King.</p>
+            <p>I think this was an Act of Parliament according to the manner of Enacting in thoſe times, and that the Lords in Parliament are the Kings Councel, and are often call'd his Great Councel.</p>
+            <p>The Judges in a courſe of meer Law are oblig'd to judge according to Law, and in a Courſe of Equity according to Equity; but in both Caſes the matter of fact whereupon both Law and Equity doth ariſe ought by the Law of the Land to be tryed by Jury of 12 Men, unleſs in ſome few Caſes, yet the Courts of Equity have determin'd matter of fact without Jury, which is very inconvenient.</p>
+            <p>It is obiected by thoſe that would not have the Judges Opinions regarded at all in Judgments in the Houſe of Lords, that they may be corrupted, which I admit; but if any ſuch thing appear, ſuch Judges may be diſ<g ref="char:EOLhyphen"/>p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ac'd and honeſt Men put in their places, as ſometimes Parliaments are factious, but that doth not juſtifie the King to make Acts without a Parliament, yet he may. Diſſolv a Factious Parliament and call another by whoſe conſent he may make Acts, and ſo corrupt Judges being diſplac'd, the King and Lords may be advis'd by ho<g ref="char:EOLhyphen"/>neſt ones.</p>
+            <p>It may therefore be worthy conſideration whither it be <hi>ſecumdum Legem &amp; Conſuetudinem Parlamenti</hi> for the Lords to Reject the Opinion of the Judges (as of late hath been done) both in matters of Law upon Writs of error, and in matters of Equity upon Appeals; in which laſt, ſuch Regard ought to be had to the Law as not quite to overthrow it, though by reaſon of ſome Circumſtances in ſome caſes the Rigour of the Law may be moderated, and ſome ſmall deffects of the letter of the Law ſupplyd by Equity in Caſes with<g ref="char:EOLhyphen"/>in the meaning thereof, and therefore he can never be a good Judge of Equity that is not well Skill'd in the Law: and if it were otherwiſe, ſince Equity overrules the Law, we had better take Advice of Honeſt Gentlemen tha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſpent all their Lives in Hunting and Hawking and other pleaſure, and never Convers'd with, nor underſtood the Gibbriſh of Law Terms, nor the noiſe of Weſtminſter Hall, then to give any Eminent and well read Lawyer 5: or 10: or 20: Guinneys for his Advice; for the Judgment of the firſt ſort is moſt naturall and therefore moſt like to ſuite with the Judgment of the Lords if they neglect the Advice of the Judges. And to perpetuate Affliction, ſuch Judgment muſt now be the laſt reſort according to ſome Opini<g ref="char:EOLhyphen"/>ous, for ſo they would have the Judgment of the Lords, though the King nor his Repreſentative be no party nor conſenting thereto, and that if they Err it is not to be rectified by themſelves nor by Act of Parliament, though our Law Books ſay, that Parliaments may Err and do err oftentimes, and their Errors may be recti<g ref="char:EOLhyphen"/>fied in another Parliament, or another Seſſion, as appears <hi>Bro. Error</hi> 68 <hi>Crompton f.</hi> 12. <hi>L. Hollis</hi>'s Caſe ſtated, f. 65.</p>
+            <p>The whole Parliament of the 21 of <hi>R.</hi> 2: and the Authority thereby given was repealed for this principal Reaſon amongſt others, becauſe there was a Clauſe therein, that no perſon ſhould attempt to revoak any Or<g ref="char:EOLhyphen"/>dinance then made,<note place="margin">Cooks 4. Inſtit. f. 44.</note> which restraint, ſays the Lo d Cheif Juſtice <hi>Cooke,</hi> was againſt the Juriſdiction and power of Parliament, the Liberty of the Subiect, and unreaſonable: What then will be the Conſequence? If a Judgement in the Houſe of the Lords is ſo perpetually finall, be it ever ſo Eroneous, that it cannot be recti<g ref="char:EOLhyphen"/>fied by themſelves nor by Act of Parliament. And pray what becomes of the Kings ſupremacy, if the laſt reſort of all be in the Lords alone without the King.</p>
+            <p>I may boldly ſay there is nothing ſo great a grievance as the Male Adminiſtration of Juſtice, and therefore nothing more becoming the Commons of <hi>England</hi> in Parliament Aſſembled (who are the grand Inqueſt of the Nation) then to endeavour to preſerve to the People the due courſe of Adminiſtration of Juſtice, and to en<g ref="char:EOLhyphen"/>deavour to reſtrain all Uſurpation upon our Laws and Liberties by whomſoever it be, by their open decla<g ref="char:EOLhyphen"/>ring and voting againſt it, and Addreſſing to the King, our Supream Head and Governour, for a Regulation, and in particular, to deſire His Majeſty to grant Commiſſions to the Judges and ſome others of Ability and In<g ref="char:EOLhyphen"/>tegrity to Review Decrees in Courts of Equity as formerly was the practice, and as now is uſed, to Review Decrees in the Prerogative Courts; and to deſire the Lords in Judgements in their Houſe to takeand have due Regard to the Opinion of the ſworn Judges, and that if at any time any thing ſhould happen to be unreaſona<g ref="char:EOLhyphen"/>bly done or advis'd by them, through overſight, miſinformation or otherwiſe, or if a Caſe ſhould happen a<g ref="char:EOLhyphen"/>gainſt Reaſon for which no Releif may be had by the oridinary Courſe of Law of Equity, the ſame may be helpt by the whole Parliament conſiſting of King, Lords and Commons, in whom the Legiſlative Power Reſides, and who, all together, are Superiour to the Lords alone in their Judicial Capacity, and may ſupply their Defici<g ref="char:EOLhyphen"/>ency, as was lately done in the Caſe of <hi>Roberts</hi> againſt <hi>Bodvil</hi> and <hi>Winn,</hi> the ſaid <hi>Roberts</hi> having been in Chan<g ref="char:EOLhyphen"/>cery a great while, endeavouring to ſet aſide a Will, and from thence Appealed to the Lords but could not effect it but By Act of Parliament, which may be ſeen in the Parliament Rolls, 18 <hi>Car.</hi> 2. n. 9.</p>
+            <epigraph>
+               <q>Vir bonus eſt Quis? Qui Conſulta Patrum qui Leges Jura<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſervat.</q>
+            </epigraph>
+         </div>
+      </body>
+   </text>
+</TEI>
